@@ -1,0 +1,24 @@
+{
+  "properties": [
+    {
+      "name": "exception.aspect.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Enables or disables ExceptionAspect."
+    },
+    {
+      "name": "afterReturning.aspect.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Enables or disables AfterReturning."
+    },
+    {
+      "name": "after.aspect.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Enables or disables AfterAspect."
+    },
+    {
+      "name": "before.aspect.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Enables or disables BeforeAspect."
+    }
+  ]
+}
